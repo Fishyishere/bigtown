@@ -2,11 +2,10 @@
   "StrangeSoldier": {
   "access": true
   },
-  "Rav_Noodle": (
+  "Rav_Noodle": {
+  "access": true
+  },
+  "Danielbikes": {
   "access": true
   }
 }
-{
-  "Mattfever": {
-  "access": true
-  },
