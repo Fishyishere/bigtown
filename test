@@ -1,5 +1,8 @@
 {
-  "yes": {
+  "hehe": {
   "access": true
+  {,
+  "strange": {
+  "access": false
   }
 }
