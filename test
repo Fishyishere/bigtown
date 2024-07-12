@@ -4,5 +4,8 @@
   },
   "strange": {
   "access": false
+  },
+  "daniel": {
+  "access": true
   }
 }
