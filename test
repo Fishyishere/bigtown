@@ -9,6 +9,6 @@
   "access": true
   },
   "luck": {
-  "access": false
+  "access": true
   }
 }
